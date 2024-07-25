@@ -10,5 +10,4 @@
 bahkromov01/bahkromov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🔗 Languages and Tools:
-🔗 https://www.python.org/, https://www.mysql.com/, https://www.w3.org/html/ , https://www.postgresql.org/, https://www.djangoproject.com/
+
