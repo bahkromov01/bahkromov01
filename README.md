@@ -9,10 +9,6 @@
 <!---
 bahkromov01/bahkromov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->🔗 Languages and Tools:
-<img width="50" height="50" src="https://img.icons8.com/stickers/100/python.png"  alt="https://www.python.org/"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-<img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/49/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+--->🔗 Languages and Tools:<img width="50" height="50" src="https://img.icons8.com/stickers/100/python.png"  alt="https://www.python.org/"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/49/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
 
 
