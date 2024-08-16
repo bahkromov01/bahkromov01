@@ -10,8 +10,7 @@
 bahkromov01/bahkromov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img width="10" height="10" src="https://img.icons8.com/emoji/48/link-emoji.png" alt="link-emoji"/>
-Languages and Tools:
+🔗 Languages and Tools:
 <img width="50" height="50" src="https://img.icons8.com/stickers/100/python.png" alt="python"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/>
