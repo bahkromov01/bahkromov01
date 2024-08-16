@@ -1,4 +1,4 @@
-👋 Hi, I’m Baxromov ruslan
+- 👋 Hi, I’m Baxromov ruslan
 - 👀 I’m interested in websayt
 - 🌱 I’m currently learning on real projects
 - 💞️ I’m looking to collaborate on https://github.com/bahkromov01?tab=repositories
